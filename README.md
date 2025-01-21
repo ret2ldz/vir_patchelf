@@ -24,7 +24,7 @@
 克隆本仓库到本地 | Clone the repository:
 
 ```
-git clone https://github.com/askdfkd/vir.git
+git clone https://github.com/askdfkd/vir_patchelf.git
 cd vir
 ```
 
@@ -53,7 +53,7 @@ vir ./libc.so.6 ./you_file_names
 
 #### EXAMPLE|例子
 
-<img src="C:\Users\0629\Downloads\p1\Screenshot_2025-01-21_04_18_14.png" alt="Screenshot_2025-01-21_04_18_14" style="zoom:80%;" />
+<img src="./Screenshot_2025-01-21_04_18_14.png" alt="Screenshot_2025-01-21_04_18_14" style="zoom:80%;" />
 
 #### Contributing|贡献 
 
