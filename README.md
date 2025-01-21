@@ -25,7 +25,7 @@
 
 ```
 git clone https://github.com/askdfkd/vir_patchelf.git
-cd vir
+cd vir_patchelf
 ```
 
 ============================================================
