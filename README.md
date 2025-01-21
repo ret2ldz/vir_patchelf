@@ -39,7 +39,7 @@ chmod+x setup.sh
 ./setup.sh
 ```
 
-<img src="C:\Users\0629\AppData\Roaming\Typora\typora-user-images\image-20250121163031203.png" alt="image-20250121163031203" style="zoom:67%;" />
+<img src="./image-20250121163031203.png" alt="image-20250121163031203" style="zoom:67%;" />
 
 #### Usage|使用方法
 
