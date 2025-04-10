@@ -24,7 +24,7 @@
 克隆本仓库到本地 | Clone the repository:
 
 ```
-git clone https://github.com/askdfkd/vir_patchelf.git
+git clone https://github.com/ret2ldz/vir_patchelf.git
 cd vir_patchelf
 ```
 
